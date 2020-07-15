@@ -1,2 +1,2 @@
 # MicrosoftCsharpProgramming
-.NetCore, VisualStudioCode, ASP.Net,
+C#, .Net, Visual Studio
